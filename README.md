@@ -1,3 +1,5 @@
+# Recuerda agregar tu archivo .env con tus llaves de OpenAI
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
